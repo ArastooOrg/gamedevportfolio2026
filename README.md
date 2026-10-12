@@ -4,6 +4,6 @@
 
 ### OOP SpaceGame
 
-![SpaceGame2026](https://github.com/ArastooOrg/gamedevportfolio2026/blob/main/images/spacegame01.png)
+![SpaceGame2026](https://github.com/ArastooOrg/gamedevportfolio2026/blob/main/images/spacegame01.png?raw=true)
 
-[Link to Source Code]()
+[Link to Source Code](https://github.com/ArastooOrg/gamedevportfolio2026/tree/main/src/SpaceGame)
