@@ -39,9 +39,6 @@ class PowerUp {
     fill(250);
     image(pu1, x, y);
     textAlign(CENTER, CENTER);
-    fill(255);
-    textSize(20);
-    text(type,x,y);
   }
 
   void move() {
